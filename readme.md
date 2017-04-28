@@ -1,4 +1,3 @@
-# kaggle-celebrities-deaths-DA
 ## Kernel: Data Analysis &amp; Visualization
 
 Project can be also found at:
