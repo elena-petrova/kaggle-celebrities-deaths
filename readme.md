@@ -7,4 +7,8 @@ https://www.kaggle.com/elenapetrova/d/hugodarwood/celebrity-deaths/updated-death
 - Rpubs
 http://rpubs.com/elena_petrova/celebrity_deaths
 
-Data Geekette
+*To check out the project go ahead and open an .ipynb file or any of the links above.*
+
+Thanks for reading!
+
+Datageekette
