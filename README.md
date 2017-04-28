@@ -1,7 +1,7 @@
-# kaggle-celebrities-deaths
+# kaggle-celebrities-deaths-DA
 Kernel: Data Analysis &amp; Visualization
 
-Full project can be found at:
+Project can be also found at:
 - Kaggle
 https://www.kaggle.com/elenapetrova/d/hugodarwood/celebrity-deaths/updated-death-analysis
 - Rpubs
